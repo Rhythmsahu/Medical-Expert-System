@@ -1,0 +1,11 @@
+Disease,Coughing,Chest Pain,Weight Loss,Fatigue,Fever,Chills,Loss Of apettite,Vomiting,Muscle pain,Sore Throat
+Tuberculosis,1,1,1,1,1,1,1,0,0,0
+Malaria,0,0,1,1,1,1,1,1,1,0
+AIDS,0,0,1,1,1,1,1,0,1,1
+Measles,1,0,0,1,1,1,1,0,1,1
+Dengue,0,0,0,1,2,1,0,1,1,1
+Tonsilitis,0,0,0,1,1,0,0,0,1,1
+Typhoid,0,0,1,1,2,1,0,1,1,0
+Jaundice,0,1,1,1,1,0,1,1,1,1
+Leukemia,0,0,1,1,1,1,1,0,1,1
+Amoebiasis,0,0,1,1,1,0,1,1,1,0
